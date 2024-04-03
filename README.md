@@ -1,5 +1,5 @@
-                                                                        NAME: KISHORE N
-                                                                        REG NO. 212222240049
+                                                                     NAME: KISHORE N
+                                                                     REG NO. 212222240049
 # EX-3: Correlation and regression for data analysis
 # Aim : 
 To analyse given data using coeffificient of correlation and regression line
